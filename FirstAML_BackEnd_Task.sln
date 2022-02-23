@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParcelSystem", "ParcelSystem\ParcelSystem.csproj", "{1E2F15EE-F17E-46D7-92E7-D9B768ACC437}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{DC362149-39D4-43E1-A95E-839B6BA4745E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E2F15EE-F17E-46D7-92E7-D9B768ACC437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E2F15EE-F17E-46D7-92E7-D9B768ACC437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E2F15EE-F17E-46D7-92E7-D9B768ACC437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E2F15EE-F17E-46D7-92E7-D9B768ACC437}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC362149-39D4-43E1-A95E-839B6BA4745E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC362149-39D4-43E1-A95E-839B6BA4745E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC362149-39D4-43E1-A95E-839B6BA4745E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC362149-39D4-43E1-A95E-839B6BA4745E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

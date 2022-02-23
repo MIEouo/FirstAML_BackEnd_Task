@@ -1,0 +1,12 @@
+/Users/yyx/RiderProjects/FirstAML_BackEnd_Task/ParcelSystem/bin/Debug/net6.0/ParcelSystem.deps.json
+/Users/yyx/RiderProjects/FirstAML_BackEnd_Task/ParcelSystem/bin/Debug/net6.0/ParcelSystem.dll
+/Users/yyx/RiderProjects/FirstAML_BackEnd_Task/ParcelSystem/bin/Debug/net6.0/ref/ParcelSystem.dll
+/Users/yyx/RiderProjects/FirstAML_BackEnd_Task/ParcelSystem/bin/Debug/net6.0/ParcelSystem.pdb
+/Users/yyx/RiderProjects/FirstAML_BackEnd_Task/ParcelSystem/obj/Debug/net6.0/ParcelSystem.csproj.AssemblyReference.cache
+/Users/yyx/RiderProjects/FirstAML_BackEnd_Task/ParcelSystem/obj/Debug/net6.0/ParcelSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yyx/RiderProjects/FirstAML_BackEnd_Task/ParcelSystem/obj/Debug/net6.0/ParcelSystem.AssemblyInfoInputs.cache
+/Users/yyx/RiderProjects/FirstAML_BackEnd_Task/ParcelSystem/obj/Debug/net6.0/ParcelSystem.AssemblyInfo.cs
+/Users/yyx/RiderProjects/FirstAML_BackEnd_Task/ParcelSystem/obj/Debug/net6.0/ParcelSystem.csproj.CoreCompileInputs.cache
+/Users/yyx/RiderProjects/FirstAML_BackEnd_Task/ParcelSystem/obj/Debug/net6.0/ParcelSystem.dll
+/Users/yyx/RiderProjects/FirstAML_BackEnd_Task/ParcelSystem/obj/Debug/net6.0/ref/ParcelSystem.dll
+/Users/yyx/RiderProjects/FirstAML_BackEnd_Task/ParcelSystem/obj/Debug/net6.0/ParcelSystem.pdb

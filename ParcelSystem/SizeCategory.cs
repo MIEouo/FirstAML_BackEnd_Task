@@ -7,12 +7,18 @@ public class SizeCategory
     public static int medium = 1;
     public static int large = 2;
     public static int xl = 3;
-    
+    // public static int heavy = 4;
+
     //Size Limitation
     public static double smallWeightLimitation = 1;
     public static double mediumWeightLimitation = 3;
     public static double largeWeightLimitation = 6;
     public static double xlWeightLimitation = 10;
+    public static double heavyWeightLimitation = 50;
+    
+    //pricing factors
+    public static int standardOverweightPrice = 2;
+    public static int heavyOverweightPrice = 1;
 
     //Define size category by parcel size
     public static int defineSizeCategory(int size)
@@ -38,6 +44,4 @@ public class SizeCategory
             throw new ArgumentException("Not Available.");
         }
     }
-    
-     
 }

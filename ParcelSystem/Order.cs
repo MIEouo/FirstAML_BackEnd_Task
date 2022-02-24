@@ -21,12 +21,11 @@ public class Order
         {
             total += parcel.Price;
         }
-        if (isSpeedy)
+        if (isSpeedy) // step 2
         {
             parcels.Add(new Parcel(price:total));
             total += total;
         }
-
         return total;
     }
 }
